@@ -5,7 +5,7 @@ const Hero: FC = () => {
     <div className="min-h-screen flex items-center justify-start px-4 sm:px-6 lg:px-8 relative">
       <div className="absolute top-0 right-0 w-1/2 h-full">
         <img
-          src="/public/Images/herobg.png"
+          src="/Images/herobg.png"
           alt="Hero background"
           className="w-full h-full object-cover"
         />
