@@ -22,7 +22,7 @@ const Navbar: FC = () => {
 
           <div className="flex-shrink-0 flex items-center">
             <img
-              src="/public/Images/logo.png"
+              src="/Images/logo.png"
               alt="decoded.formula logo"
               className="h-8 w-auto mr-2"
             />
